@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         NavigationStack {
             VStack {
-                Text("What is your favorite weather?")
+                Text("What is your favorite weather?!")
                     .fontWeight(.semibold)
                     .padding(.bottom, 100.0)
                 
